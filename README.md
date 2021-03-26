@@ -8,12 +8,12 @@ Python has been in the top 10 popular programming languages for a long time, as 
 Here, I'll introduce to you amazing python projects with source code and also some resources to learn python.
 
 ## LIST OF PROJECTS
-  * ### [Create Acronyms with Python](#)
-  * ### [BMI Calculator](#)
-  * ### [Dice Roll Stimulator](#)
-  * ### [Youtube Video Downloader with Python](#)
-  * ### [QR Code Generator](#)
-  * ### [Password Generator with Python](#)
+  * ### [Create Acronyms with Python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/Acronyms.py)
+  * ### [BMI Calculator](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/BMI_CALCULATOR.py)
+  * ### [Dice Roll Stimulator](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/DiceRollStimulator.py)
+  * ### [Youtube Video Downloader with Python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/YT_Download.py)
+  * ### [QR Code Generator](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/Qrcode.py)
+  * ### [Password Generator with Python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/passwordGeneartor.py)
   
  
  Note: I'll be updating this list in future
