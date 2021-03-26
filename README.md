@@ -29,7 +29,7 @@ Here, I'll introduce to you amazing python projects with source code and also so
    
    * ### [Corey Schafer YT](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
     
-   * ### [Python Crash Course- ebook](#)
+   * ### [Python Crash Course- ebook](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/Python%20Crash%20Course_%20A%20Hands-On%2C%20Project-Based%20Introduction%20to%20Programming%20(%20PDFDrive%20).pdf)
 
 
 
