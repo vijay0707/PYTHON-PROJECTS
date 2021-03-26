@@ -15,3 +15,5 @@ url = pyqrcode.create(link)
 fname = input("Enter the File name: ")
 
 url.svg(fname+".svg", scale = 8)
+
+# Qr code is saved in the folder where the file is located
