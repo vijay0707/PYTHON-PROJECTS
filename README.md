@@ -30,3 +30,9 @@ Here, I'll introduce to you amazing python projects with source code and also so
    * ### [Corey Schafer YT](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
     
    * ### [Python Crash Course- ebook](#)
+
+
+vijay0707/PYTHON-PROJECTS is licensed under the
+MIT License
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
