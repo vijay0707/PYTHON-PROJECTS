@@ -17,6 +17,7 @@ Here, I'll introduce to you amazing python projects with source code and also so
   * ### [Alarm Clock with Python](https://github.com/vijay0707/PYTHON-PROJECTS/tree/main/python_projects/Alarm%20Clock%20With%20Python)
   * ### [Mad Libs Generator](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/Mad_libs.py)
   * ### [Wikipedia Scraper](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/Wiki_Scraper.py)
+  * ### [Colored Text using Python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/Color_Text.py)
  Note: I'll be updating this list in future
   
   
