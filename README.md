@@ -20,6 +20,7 @@ Here, I'll introduce to you amazing python projects with source code and also so
   * ### [Colored Text using Python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/Color_Text.py)
   * ### [Text to Speech Converter with python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/TextToSpeech.py)
   * ### [Internet Speed Calculation with python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/internet_speed.py)
+  * ### [Shutdown Computer using Python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/pc_shutdown.py)
  Note: I'll be updating this list in future
   
   
