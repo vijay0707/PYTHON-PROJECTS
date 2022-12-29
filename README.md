@@ -21,7 +21,7 @@ Here, I'll introduce to you amazing python projects with source code and also so
   * ### [Text to Speech Converter with python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/TextToSpeech.py)
   * ### [Internet Speed Calculation with python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/internet_speed.py)
   * ### [Shutdown Computer using Python](https://github.com/vijay0707/PYTHON-PROJECTS/blob/main/python_projects/pc_shutdown.py)
-  *### [Web Scraping using Python and MongoDB](https://github.com/vijay0707/WebScraper-Python)
+  * ### [Web Scraping using Python and MongoDB](https://github.com/vijay0707/WebScraper-Python)
  Note: I'll be updating this list in future
   
   
